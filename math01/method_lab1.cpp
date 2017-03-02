@@ -3,6 +3,9 @@
 
  #include "bibl.h"
  #include <iostream>
+
+
+
 int main(int argc, char* argv[]) {
 	if(argc !=3) {
 		cout << "incorrect command line! "
@@ -15,7 +18,7 @@ int main(int argc, char* argv[]) {
 	cout << "Start"<< endl;
 	
 	container c;
-	Clear(c);
+	Init(c);
 	In(c, ifst);
 ofst << "Filled container. " << endl;
 	Out(c, ofst);
