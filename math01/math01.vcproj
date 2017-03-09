@@ -195,6 +195,14 @@
 				>
 			</File>
 			<File
+				RelativePath=".\conundrum_In.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\conundrum_Out.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\method_lab1.cpp"
 				>
 			</File>
@@ -233,6 +241,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\conundrum_atd.h"
+				>
+			</File>
+			<File
 				RelativePath=".\List_atd.h"
 				>
 			</File>
@@ -250,6 +262,14 @@
 			Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav"
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
+			<File
+				RelativePath=".\in.txt"
+				>
+			</File>
+			<File
+				RelativePath=".\out.txt"
+				>
+			</File>
 		</Filter>
 	</Files>
 	<Globals>
