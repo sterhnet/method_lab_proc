@@ -22,7 +22,8 @@ int main(int argc, char* argv[]) {
 	In(c, ifst);
 ofst << "Filled container. " << endl;
 	Out(c, ofst);
-
+ofst << "Proverb only. " << endl;
+	OutProverb(c, ofst);
 	Clear(c);
 ofst << "Empty container. " << endl;
 	Out(c, ofst);
