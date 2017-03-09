@@ -183,6 +183,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\container_compare.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\container_Constr.cpp"
 				>
 			</File>
@@ -192,6 +196,10 @@
 			</File>
 			<File
 				RelativePath=".\container_out.cpp"
+				>
+			</File>
+			<File
+				RelativePath=".\container_Sort.cpp"
 				>
 			</File>
 			<File

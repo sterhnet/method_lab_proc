@@ -22,7 +22,9 @@ int main(int argc, char* argv[]) {
 	In(c, ifst);
 ofst << "Filled container. " << endl;
 	Out(c, ofst);
-
+	Sort(c);
+ofst << "Sorted container. " << endl;
+	Out(c, ofst);
 	Clear(c);
 ofst << "Empty container. " << endl;
 	Out(c, ofst);

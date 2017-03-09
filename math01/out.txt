@@ -10,5 +10,17 @@ Container contains 5 elements.
 
 5: It is qewr's aphorism: qwer: CalcPunct - 0
 
+Sorted container. 
+Container contains 5 elements.
+1: It is qewr's aphorism: qwer: CalcPunct - 0
+
+2: It is proverb from dfbgfdsx: srhdtfyguhi,jmhngfdsdfghj: CalcPunct - 1
+
+3: It is tres's aphorism: tre.s: CalcPunct - 1
+
+4: It is fdg's aphorism: sadfghjmnbv..fdsafghjmhngbfvdszadxf: CalcPunct - 2
+
+5: It is proverb from afdef: abc,::::def: CalcPunct - 5
+
 Empty container. 
 Container contains 0 elements.
