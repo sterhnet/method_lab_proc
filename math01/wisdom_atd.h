@@ -7,6 +7,7 @@ struct wisdom {
     enum key {PROVERB, APHORISM};   //поговорка, афоризм
     key k; // ключ
     // используемые альтернативы
+	int mark; //оценка
 	string content; //содержание
     union { // используем прямое включение
       proverb p;

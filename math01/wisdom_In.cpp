@@ -8,6 +8,7 @@ wisdom* In(ifstream &ifst) {
     switch(k) {
     case 1:
       ws = new wisdom;
+	  ifst >> ws->mark;
 	  ifst >> ws->content;
 	  ws->k = wisdom::key::PROVERB;
 	  In(ws->p, ifst);
@@ -15,6 +16,7 @@ wisdom* In(ifstream &ifst) {
       return ws;
     case 2:
       ws = new wisdom;
+	  ifst >> ws->mark;
 	  ifst >> ws->content;
       ws->k = wisdom::key::APHORISM;
 	  In(ws->a, ifst);

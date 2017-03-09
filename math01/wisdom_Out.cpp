@@ -17,5 +17,5 @@ void Out(wisdom &w, ofstream &ofst) {
       ofst << "Incorrect type!" << endl;
 	
     }
-	ofst << ": "<<w.content<<endl;
+	ofst << ": "<<w.content<<": Mark - "<<w.mark<<endl;
 }
